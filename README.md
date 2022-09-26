@@ -8,14 +8,14 @@ To try it out, follow these steps:
 3. Install dependencies, this can be done with pnpm or other package mangers:
 
 - pnpm:
-`pnpm install`
+`pnpm install -g ts-node@latest typescript@latest nodemon@latest`
 
 - npm:
-`npm install`
+`npm install -g ts-node@latest typescript@latest nodemon@latest`
 
 - yarn:
-`yarn install`
+`yarn global add ts-node@latest typescript@latest nodemon@latest`
 
-4. Run it with `pnpm run dev`, `npm run dev` or `yarn run dev`
+4. Run it with `ts-node .`
 
 For more info, read up on happy numbers [here](https://en.wikipedia.org/wiki/Happy_number).
