@@ -3,7 +3,7 @@ Computer Science Assignment to determine whether a number is [happy or not](http
 
 To try it out, follow these steps:
 
-1. clone the repository by running `git clone git@github.com:MorganDilling/happy-numbers.git` in the terminal
+1. clone the repository by running `git clone https://github.com/MorganDilling/happy-numbers.git` in the terminal
 2. Go into the project directory by running `cd happy-numbers`
 3. Install dependencies, this can be done with pnpm or other package mangers:
 
