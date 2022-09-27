@@ -8,13 +8,13 @@ To try it out, follow these steps:
 3. Install dependencies, this can be done with pnpm or other package mangers:
 
 - pnpm:
-`pnpm install -g ts-node@latest typescript@latest nodemon@latest`
+`pnpm install -g ts-node@latest typescript@latest`
 
 - npm:
-`npm install -g ts-node@latest typescript@latest nodemon@latest`
+`npm install -g ts-node@latest typescript@latest`
 
 - yarn:
-`yarn global add ts-node@latest typescript@latest nodemon@latest`
+`yarn global add ts-node@latest typescript@latest`
 
 4. Run it with `ts-node .`
 
